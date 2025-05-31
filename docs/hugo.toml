@@ -1,4 +1,6 @@
 baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Pagina Paradigmas'
 theme = 'ananke'
+[params] 
+    showSummary = false 
