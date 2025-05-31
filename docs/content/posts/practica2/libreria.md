@@ -2,7 +2,7 @@
 date = '2025-02-21T10:19:41-08:00'
 draft = false
 title = 'Practica2'
-Summary = 'Mario Navarro'
+Summary = 'Explicación del Funcionamiento del Programa de Biblioteca'
 +++
 
 
