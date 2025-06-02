@@ -1,3 +1,10 @@
++++
+date = '2025-06-01T10:19:14-07:00'
+draft = false
+title = 'Practica4'
+Summary = 'El paradigma logico'
++++
+
 # practica 4
 
 **Paradigma Logico**
